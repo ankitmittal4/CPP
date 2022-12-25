@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     int row1,row2,column1,column2,compare=0;
     cout<<"Enter Rows for first matrix"<<endl;
+    cout<<"Enter Rows for first matrix"<<endl;
     cin>>row1;
     cout<<"Enter columns for first matrix"<<endl;
     cin>>column1;
